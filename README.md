@@ -21,3 +21,5 @@ select * from devils
 > won the stanley cup in 94
 
 ### Rangers
+
+![rangers-image](ranger.png)
