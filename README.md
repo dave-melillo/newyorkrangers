@@ -14,4 +14,9 @@
 
 `select * from rangers`
 
+```
+select * from rangers
+select * from devils
+```
+
 ### Rangers
