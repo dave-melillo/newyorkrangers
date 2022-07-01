@@ -22,4 +22,4 @@ select * from devils
 
 ### Rangers
 
-![rangers-image](ranger.png)
+![rangers-image](rangers.png)
